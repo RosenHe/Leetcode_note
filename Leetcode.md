@@ -5,4 +5,5 @@
 <br>Source by Fahim ul Haq
 </p>
 
-- Sliding Window
+- Two Pointer
+  - [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
