@@ -1,26 +1,26 @@
 Note from udemy class:<br>
-git init (create git)<br>
-git add <filename> (add to the staging area)<br>
-git commit -m "message" (add message comment<br>
-git log (check log)<br>
-git diff <filename>(check difference)<br>
-git checkout <filename> (roll back to the last version)<br>
+<b>git init</b> (create git)<br>
+<b>git add <filename> </b> (add to the staging area)<br>
+<b>git commit -m "message" </b> (add message comment)<br>
+<b>git log </b> (check log)<br>
+<b>git diff <filename></b>(check difference)<br>
+<b>git checkout <filename> </b> (roll back to the last version)<br>
 
-git remote add origin <githubwebsite> (remote created, able to push local repository onto remote repository)<br>
-git push -u origin master (push -u Name of remote Name of Branch)<br>
+<b>git remote add origin </b> <githubwebsite> (remote created, able to push local repository onto remote repository)<br>
+<b>git push -u origin master </b>(push -u Name of remote Name of Branch)<br>
 
-touch .gitignore (create gitignore file)<br>
-git rm --cached -r . (remove all files from staging area)<br>
+<b>touch .gitignore </b> (create gitignore file)<br>
+<b>git rm --cached -r . </b>(remove all files from staging area)<br>
 inside the gitinore file: write file names line by line. # to comment *.txt(means all txt file)<br>
 
-git merge <name> (meger two branch) it will open vim(text-editor) to allows you to add merge message.<br>
- :q! to quit.<br>
-git push origin master -u (update to GitHub website)<br>
+<b>git merge 'name' </b>(meger two branch) it will open vim(text-editor) to allows you to add merge message.<br>
+<b> :q! </b>to quit.<br>
+<b>git push origin master -u </b>(update to GitHub website)<br>
 Rebasing is the process of moving or combining a sequence of commits to a new base commit.<br>
 
-git branch <name> (create new branch)<br>
-git branch (show all branch) the name with * is the current branch<br>
-git checkout <name> (switch to name branch)<br>
+<b>git branch 'name' </b> (create new branch)<br>
+<b>git branch </b>(show all branch) the name with * is the current branch<br>
+<b>git checkout 'name' </b>(switch to name branch)<br>
 
 pull request is telling the owner of folk repository why my new request is better<br>
 
