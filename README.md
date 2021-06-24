@@ -13,7 +13,10 @@
 
 - Monotonous Stack
   - [42. Trapping Rain Water(hard)](https://leetcode.com/problems/trapping-rain-water/)
+<<<<<<< HEAD
   - [456. 132 Pattern](https://leetcode.com/problems/132-pattern/)
+=======
+>>>>>>> befd845b22b2783a3014bce362508a02b56c7b7a
   - [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)
 
 - Decode Stack / DFS
