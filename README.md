@@ -18,7 +18,18 @@
 
 - Decode Stack / DFS
   - [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)
-  - [112. Path Sum (easy)](https://leetcode.com/problems/path-sum/)
-  - [113. Path Sum II](https://leetcode.com/problems/path-sum-ii/)
   - [394. Decode String](https://leetcode.com/problems/decode-string/)
   - [341. Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)
+
+- DFS
+  - [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)
+  - [112. Path Sum (easy)](https://leetcode.com/problems/path-sum/)
+  - [113. Path Sum II](https://leetcode.com/problems/path-sum-ii/)
+  - [200. Number of Islands](https://leetcode.com/problems/number-of-islands/)
+
+- DP
+  - [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
+
+- Graph / Topological Sort
+  - [207. Course Schedule](https://leetcode.com/problems/course-schedule/)
+  - [210. Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)
