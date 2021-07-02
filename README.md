@@ -1,5 +1,6 @@
 <h2 align="center">
   Leetcode Note
+  Number: 20
 </h2>
 
 </p>
@@ -10,6 +11,12 @@
 - List
   - [92.Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)
   - [986. Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/)
+
+- Pre Sum (hash map)
+  - [1. Two Sum](https://leetcode.com/problems/two-sum/)
+  - [15. 3Sum](https://leetcode.com/problems/3sum/)
+  - [18. 4Sum](https://leetcode.com/problems/4sum/)
+  - [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)
 
 - Monotonous Stack
   - [42. Trapping Rain Water (hard)](https://leetcode.com/problems/trapping-rain-water/)
