@@ -1,10 +1,12 @@
 <h2 align="center">
   Leetcode Note
-  Number: 21
+  Number: 26
 </h2>
 
 </p>
-
+- Divide and Conquer
+  - [53. Maximum Subarray(easy)](https://leetcode.com/problems/maximum-subarray/)
+  
 - Two Pointer (1)
   - [4. Median of Two Sorted Arrays (hard)](https://leetcode.com/problems/median-of-two-sorted-arrays/)
 
@@ -19,7 +21,10 @@
   - [18. 4Sum](https://leetcode.com/problems/4sum/)
   - [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)
 
-- Hash Map (1)
+- Hash Map (4)
+  - [138. Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)
+  - [242. Valid Anagram(easy)](https://leetcode.com/problems/valid-anagram/)
+  - [349. Intersection of Two Arrays(easy)](https://leetcode.com/problems/intersection-of-two-arrays/)
   - [718. Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/)
 
 - Monotonous Stack (3)
