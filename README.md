@@ -1,14 +1,23 @@
 <h2 align="center">
   Leetcode Note
-  Number: 26
 </h2>
+<h4 align = "center">
+  C++ Number: 27 <br>
+  Java Number: 2
+</h4>
+
 
 </p>
-- Divide and Conquer
+
+- Divide and Conquer(1)
   - [53. Maximum Subarray(easy)](https://leetcode.com/problems/maximum-subarray/)
-  
+
 - Two Pointer (1)
   - [4. Median of Two Sorted Arrays (hard)](https://leetcode.com/problems/median-of-two-sorted-arrays/)
+
+- Linked List (Java 2)
+  - [160. Intersection of Two Linked Lists(easy)](https://leetcode.com/problems/intersection-of-two-linked-lists/)
+  - [206. Reverse Linked List (easy)](https://leetcode.com/problems/reverse-linked-list/)
 
 - List (2)
   - [92.Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)
